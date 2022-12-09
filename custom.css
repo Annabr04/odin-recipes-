@@ -1,0 +1,40 @@
+h1 {
+    background-color: green;
+    color: red;
+    padding: 4px;
+    margin-left: 0;
+    margin-right: 0;
+    margin: 1px;
+    display: flex;
+    justify-content: center;
+}
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: green;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+img {
+    text-align: center;
+}
+
+.header {
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+ul {
+    display: flex;
+    margin: 0;
+    padding: 1;
+    gap: 20px;
+}
+
+a {
+    color: red;
+}
